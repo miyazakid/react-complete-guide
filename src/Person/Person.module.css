@@ -12,3 +12,9 @@
 .Person:hover {
   background-color: #407F7F;
 }
+
+@media (min-width: 600px) {
+  .Person {
+      width: 450px;
+  }
+}
